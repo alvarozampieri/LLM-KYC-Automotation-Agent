@@ -60,4 +60,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- LinkedIn: [Your LinkedIn Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/alvaro-zampieri-411320210/))
+- LinkedIn: [https://www.linkedin.com/in/alvaro-zampieri-411320210](https://www.linkedin.com/in/alvaro-zampieri-411320210/)
